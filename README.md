@@ -1,2 +1,2 @@
-# Java_Script
+# Java-Script
 Primeiros passos com Java Script 
