@@ -1,3 +1,9 @@
-let variavel = 10 / 10;
+let variavel =   -> Com essa variavel é possível mudar o seu valor.
 
-console.log(variavel);
+Const Pi = 3.14; -> Atribuindo um valor a essa variável o seu valor não pde ser mudado.
+
+Console.log(''); -> Interface para imprimir no terminal.
+
+O símbolo de "igual" = signfica ATRIBUIÇÃO.
+
+Operadores       -> + - * / 
