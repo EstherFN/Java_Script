@@ -5,9 +5,9 @@ const distanciaEmKm = 100;
 const litrosConsumidos = distanciaEmKm / KmPorLitros;
 const valorGasto = litrosConsumidos * precoCombustivel;
 
-console.log(valorGasto);
+console.log(valorGasto. toFixed(2);
 
-
+/*toFixed() -> Quantidade de números na casa decimal.*/
 /*Faça um programa para calcular o valor de uma viagem.
 
 Você terá 3 variáveis. Sendo elas:
